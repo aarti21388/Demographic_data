@@ -35,3 +35,6 @@ For development, you can use `main.py`
 ### Testing 
 
 the tests from `test_module.py` to `main.py` for your convenience.
+
+### Replit link 
+https://replit.com/@Artij1/demographic-data-analyzer#demographic_data_analyzer.py
